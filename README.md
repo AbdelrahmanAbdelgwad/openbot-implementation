@@ -8,7 +8,7 @@ Implemented a person-follower robot based on the Intel OpenBot framework, achiev
 
 ### Assembled Robot
 
-![Person-Follower Robot](https://example.com/images/person-follower-robot.jpg)
+![alt text](https://github.com/AbdelrahmanAbdelgwad/self-balancing-robot-/blob/main/media/pid_design.jpeg)
 
 ### Event Showcase
 
